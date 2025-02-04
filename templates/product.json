@@ -16,8 +16,8 @@
           "type": "media_gallery",
           "settings": {
             "img_orientation": "ratio-1x1",
-            "img_border": "rounded",
-            "effect": "slide",
+            "img_border": "img-thumbnail",
+            "effect": "cube",
             "speed": 700,
             "controls_color": "white",
             "pagination_type": "bullets",
@@ -25,7 +25,7 @@
             "show_thumbs": "show",
             "thumbs_per_view": 5,
             "full_screen": false,
-            "full_screen_effect": "slide"
+            "full_screen_effect": "zoom"
           }
         },
         "40d3cdd3-9d78-4f15-b346-c3f46d49f7b1": {
@@ -149,6 +149,16 @@
             "pb": 0
           }
         },
+        "separator_cWJNG3": {
+          "type": "separator",
+          "settings": {
+            "bg_color": "bg-body",
+            "bg_opacity": 10,
+            "height": 1,
+            "pt": 3,
+            "pb": 3
+          }
+        },
         "0f571c64-329e-4ea3-9c76-ebf86266226a": {
           "type": "collapse",
           "settings": {
@@ -169,25 +179,6 @@
             "pt": 0,
             "pb": 0
           }
-        },
-        "separator_cWJNG3": {
-          "type": "separator",
-          "settings": {
-            "bg_color": "bg-body",
-            "bg_opacity": 10,
-            "height": 1,
-            "pt": 3,
-            "pb": 3
-          }
-        },
-        "liquid_iDU3Rg": {
-          "type": "liquid",
-          "disabled": true,
-          "settings": {
-            "liquid": "<p class=\"bg-primary text-white rounded p-5\">Today's date: <b>{{ 'now' | date: \"%b %d, %Y\" }}</b></p>",
-            "pt": 3,
-            "pb": 3
-          }
         }
       },
       "block_order": [
@@ -201,9 +192,8 @@
         "08894b72-c532-44db-9228-5f14c9841895",
         "11016cfc-fdff-46f2-9b6b-26a6e68b7653",
         "9ecd1e68-8c4b-4330-ac14-7459a1896521",
-        "0f571c64-329e-4ea3-9c76-ebf86266226a",
         "separator_cWJNG3",
-        "liquid_iDU3Rg"
+        "0f571c64-329e-4ea3-9c76-ebf86266226a"
       ],
       "settings": {
         "bg_color": "bg-body",
