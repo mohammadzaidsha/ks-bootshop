@@ -41,7 +41,7 @@
           "settings": {
             "title": "",
             "title_font_size": "h6",
-            "description": "<p>{{ product.metafields.descriptors.subtitle.value }}</p>",
+            "description": "<p>Discover the traditional elegance of thobe fashion. Explore our collection for timeless and sophisticated attire.</p>",
             "description_font_size": "fs-xl",
             "product_description": false,
             "description_classes": "opacity-70",
