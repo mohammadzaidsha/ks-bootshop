@@ -218,12 +218,12 @@
     "product_main_W6ezcA": {
       "type": "product-main",
       "blocks": {
-        "richtext_Xn6mmE": {
+        "richtext_Wi7M7G": {
           "type": "richtext",
           "settings": {
             "title": "Richtext Title",
             "title_font_size": "h6",
-            "description": "<p></p>{{ product.description }}",
+            "description": "{{ product.description }}",
             "description_font_size": "fs-md",
             "product_description": false,
             "description_classes": "",
@@ -233,7 +233,7 @@
         }
       },
       "block_order": [
-        "richtext_Xn6mmE"
+        "richtext_Wi7M7G"
       ],
       "settings": {
         "bg_color": "bg-body",
