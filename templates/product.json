@@ -226,7 +226,7 @@
         "border_bottom_width": 0,
         "border_color": "border-body",
         "border_opacity": 22,
-        "container_max_width": "500",
+        "container_max_width": "1500",
         "text_align": "text-start",
         "title": "Richtext",
         "title_font_size": "h5",
