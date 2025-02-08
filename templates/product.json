@@ -43,7 +43,7 @@
             "title_font_size": "h6",
             "description": "<p>{{ product.metafields.descriptors.subtitle.value }}</p>",
             "description_font_size": "fs-xl",
-            "product_description": true,
+            "product_description": false,
             "description_classes": "opacity-70",
             "pt": 0,
             "pb": 3
