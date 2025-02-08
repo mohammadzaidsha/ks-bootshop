@@ -85,7 +85,7 @@
             "show_qty_field": true,
             "show_dynamic_buttons": false,
             "atc_btn_color": "btn-primary",
-            "atc_btn_size": "btn-sm",
+            "atc_btn_size": "btn-lg",
             "show_buy_btn": true,
             "buy_btn_color": "btn-outline-secondary",
             "buy_btn_size": "",
