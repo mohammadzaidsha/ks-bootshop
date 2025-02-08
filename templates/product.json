@@ -110,13 +110,14 @@
         "11016cfc-fdff-46f2-9b6b-26a6e68b7653": {
           "type": "collapse",
           "settings": {
-            "icon_size": 20,
+            "icon": "shopify://shop_images/apna-logo.png",
+            "icon_size": 24,
             "title": "Product Details",
-            "title_font_family": "",
-            "title_font_size": "fs-md",
+            "title_font_family": "heading",
+            "title_font_size": "fs-xl",
             "title_text_transform": "text-capitalize",
             "title_letter_spacing": 1,
-            "description": "",
+            "description": "<p>Discover the traditional elegance and timeless style of our jubba collection. Crafted with quality materials for a sophisticated look.</p>",
             "product_description": true,
             "description_font_size": "fs-md",
             "border_top_width": 1,
@@ -124,8 +125,8 @@
             "border_color": "border-body",
             "border_opacity": 100,
             "open_by_default": true,
-            "pt": 0,
-            "pb": 0
+            "pt": 3,
+            "pb": 3
           }
         },
         "9ecd1e68-8c4b-4330-ac14-7459a1896521": {
