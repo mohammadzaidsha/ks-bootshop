@@ -47,13 +47,13 @@ Ready to take your Shopify store to the next level with advanced features like:
 - Bundle Builder
 - and much more...
 
-[Browse our Shopify Themes](https://www.kondasoft.com/collections/shopify-themes)
+[Browse 15+ Premium Shopify Themes](https://www.kondasoft.com/collections/shopify-themes)
 
 ## Demo 
 https://ks-bootshop.myshopify.com
 
 ## Download Theme
-https://www.kondasoft.com/collections/shopify-themes/products/ks-bootshop
+https://github.com/kondasoft/ks-bootshop/releases
 
 ## Installation
 **Note:** Please, make sure you are familiar with [Theme kit](https://shopify.github.io/themekit/), and official documentation before proceeding. We are assuming that at this point you have already installed the Theme Kit.
